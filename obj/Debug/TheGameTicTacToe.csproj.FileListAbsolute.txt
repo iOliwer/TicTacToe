@@ -1,0 +1,10 @@
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Debug\TheGameTicTacToe.exe.config
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.csprojResolveAssemblyReference.cache
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.Start.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.Properties.Resources.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.TheGame.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.csproj.GenerateResource.Cache
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Debug\TheGameTicTacToe.exe
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Debug\TheGameTicTacToe.pdb
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.exe
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Debug\TheGameTicTacToe.pdb

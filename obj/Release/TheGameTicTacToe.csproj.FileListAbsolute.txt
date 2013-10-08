@@ -1,0 +1,14 @@
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Release\TheGameTicTacToe.exe.config
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Release\TheGameTicTacToe.exe
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\bin\Release\TheGameTicTacToe.pdb
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.Start.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.Properties.Resources.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.TheGame.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.csproj.GenerateResource.Cache
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.exe
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.pdb
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.csprojResolveAssemblyReference.cache
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.Settings.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.Easy.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.playervscomputer.resources
+C:\c#\tictactoe\TheGameTicTacToe\TheGameTicTacToe\obj\Release\TheGameTicTacToe.playervsplayer.resources
